@@ -3,16 +3,10 @@
 
 -   By Guillaume
 -   Weight: 1
--   Project over - took place from 12-14-2021 to 12-15-2021 - you're done with 10% of tasks.
--   QA review fully automated.
+-   Project will start Oct 3, 2023 6:00 AM, must end by Oct 4, 2023 6:00 AM
+-   Checker was released at Oct 3, 2023 12:00 PM
+-   An auto review will be launched at the deadline
 
-#### In a nutshell...
-
--   **Auto QA review:** 0.0/94 mandatory & 0.0/59 optional
--   **Altogether:**  **0.0%**
-    -   Mandatory: 0.0%
-    -   Optional: 0.0%
-    -   Calculation:  0.0% + (0.0% * 0.0%)  == **0.0%**
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/252/r_208403_QPSN8.jpg)
 
